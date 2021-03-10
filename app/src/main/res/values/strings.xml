@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">agendaumb</string>
+    <string name="agregar_actividad">Agregar Evento</string>
+    <string name="agregar_evento">Guardar</string>
+    <string name="report_planned_date">Fecha del evento</string>
+    <string name="asunto_evento">Asunto del evento...</string>
+    <string name="actividad_evento">Actividad del evento...</string>
+</resources>
